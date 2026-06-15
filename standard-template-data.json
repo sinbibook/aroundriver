@@ -119,7 +119,16 @@
               },
               "closing": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "e65d3133-cba1-44fd-b0af-b39df648e519",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/40d6e868-4079-4be7-944e-2e08da127450/index_closing/1781503992390-mp3bewmbuq.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
                 "description": ""
@@ -1701,9 +1710,9 @@
     }
   ],
   "metadata": {
-    "generatedAt": "2026-06-15T05:17:14.094643911Z",
+    "generatedAt": "2026-06-15T06:13:16.237811371Z",
     "propertyId": "cca4d132-0c77-40e7-8167-f719d70e0b0f",
     "homepageId": "40d6e868-4079-4be7-944e-2e08da127450",
-    "version": "1.7.0"
+    "version": "1.8.0"
   }
 }
