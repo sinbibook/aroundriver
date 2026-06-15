@@ -843,8 +843,8 @@
           "id": "d49706c2-9f3a-49b3-a401-9ecb9be84ff8",
           "images": [
             {
-              "id": "0dae1067-0f9c-4b88-9fa6-bdac0992e3d4",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/40d6e868-4079-4be7-944e-2e08da127450/roomtype_thumbnail/1781496169872-u9qp385s6g.jpg",
+              "id": "809a5c5f-d14c-4d8f-bc1d-dbe54ca8cb83",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/40d6e868-4079-4be7-944e-2e08da127450/roomtype_thumbnail/1781500629508-crkdu6qk3k.jpg",
               "sortOrder": 2,
               "description": "",
               "isSelected": true,
@@ -870,8 +870,8 @@
               "category": "roomtype_interior"
             },
             {
-              "id": "cdb3e092-62d1-4cba-bc21-2fc9d95bb412",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/40d6e868-4079-4be7-944e-2e08da127450/roomtype_interior/1781496169912-tjbsslyupc.jpg",
+              "id": "14dc0e40-3a55-4461-8f1b-4b0eb3af1dc2",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/40d6e868-4079-4be7-944e-2e08da127450/roomtype_interior/1781496169914-2ykz5puvui.jpg",
               "sortOrder": 39,
               "description": "",
               "isSelected": true,
@@ -879,8 +879,8 @@
               "category": "roomtype_interior"
             },
             {
-              "id": "14dc0e40-3a55-4461-8f1b-4b0eb3af1dc2",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/40d6e868-4079-4be7-944e-2e08da127450/roomtype_interior/1781496169914-2ykz5puvui.jpg",
+              "id": "cdb3e092-62d1-4cba-bc21-2fc9d95bb412",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/40d6e868-4079-4be7-944e-2e08da127450/roomtype_interior/1781496169912-tjbsslyupc.jpg",
               "sortOrder": 40,
               "description": "",
               "isSelected": true,
@@ -1701,9 +1701,9 @@
     }
   ],
   "metadata": {
-    "generatedAt": "2026-06-15T05:05:28.304677403Z",
+    "generatedAt": "2026-06-15T05:17:14.094643911Z",
     "propertyId": "cca4d132-0c77-40e7-8167-f719d70e0b0f",
     "homepageId": "40d6e868-4079-4be7-944e-2e08da127450",
-    "version": "1.6.0"
+    "version": "1.7.0"
   }
 }
