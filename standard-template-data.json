@@ -26,10 +26,75 @@
             {
               "hero": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "003cedf3-cbc9-4074-936e-9a11c28f54df",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/40d6e868-4079-4be7-944e-2e08da127450/main_hero/1781505402310-ji1f9pyuy2.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "d5851d07-2639-4de5-bf8b-dcc368a99dfc",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/40d6e868-4079-4be7-944e-2e08da127450/main_hero/1781505402405-dlnzjvxpan.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "846614e1-30dc-4e45-ab18-ba9bf594c81e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/40d6e868-4079-4be7-944e-2e08da127450/main_hero/1781505402592-zvwdvzpjrg.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "description": ""
               },
-              "about": [ ]
+              "about": [
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "73d21a1f-2c08-403d-8477-8d87ae1cb5a2",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/40d6e868-4079-4be7-944e-2e08da127450/main_about/1781505402314-xm9bn7fu4y.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "62761536-c105-4b76-a529-3871bfd25684"
+                    },
+                    {
+                      "id": "2ac9a6dc-249a-4702-80ca-b078b037b170",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/40d6e868-4079-4be7-944e-2e08da127450/main_about/1781505402495-6nmp5zgjuc.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "62761536-c105-4b76-a529-3871bfd25684"
+                    },
+                    {
+                      "id": "8ec3517d-8fc1-4158-90c0-6a925d110c76",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/40d6e868-4079-4be7-944e-2e08da127450/main_about/1781505402415-6c2xw7nnf5.jpg",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "62761536-c105-4b76-a529-3871bfd25684"
+                    },
+                    {
+                      "id": "c7f01a7f-b51c-48a2-a303-fd9782860127",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/40d6e868-4079-4be7-944e-2e08da127450/main_about/1781505402392-xbgqul4fe9.jpg",
+                      "sortOrder": 3,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "62761536-c105-4b76-a529-3871bfd25684"
+                    }
+                  ],
+                  "blockId": "62761536-c105-4b76-a529-3871bfd25684",
+                  "description": "홍천강이 한눈에 내려다보이는 풍경 속에서 여유로운 힐링을 즐겨보세요.\n시원한 수영장과 개별 바베큐 공간에서 편안한 휴식의 시간을 보낼 수 있습니다.\n은은한 향이 가득한 히노끼탕과 다양한 부대시설로 더욱 특별한 쉼을 선물합니다. 🌿✨"
+                }
+              ]
             }
           ]
         },
@@ -118,7 +183,7 @@
                 "description": "Where Nature Flows And Rest Begins."
               },
               "closing": {
-                "title": "",
+                "title": "Around River",
                 "images": [
                   {
                     "id": "e65d3133-cba1-44fd-b0af-b39df648e519",
@@ -131,7 +196,7 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": "홍천 어라운드리버 펜션"
               },
               "essence": {
                 "title": "홍천강이 한눈에 내려다보이는 풍경 속에서 여유로운 힐링을 즐겨보세요. 시원한 수영장과 개별 바베큐 공간에서 편안한 휴식의 시간을 보낼 수 있습니다. 은은한 향이 가득한 히노끼탕과 다양한 부대시설로 더욱 특별한 쉼을 선물합니다. 🌿✨",
@@ -294,7 +359,32 @@
             {
               "hero": {
                 "title": "",
-                "images": [ ]
+                "images": [
+                  {
+                    "id": "1a4b9894-931e-4073-87f4-d807020a5edb",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/40d6e868-4079-4be7-944e-2e08da127450/directions_hero/1781505402409-gtf5s029n2.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "95afeddc-5b15-48b8-b15e-5ead52197721",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/40d6e868-4079-4be7-944e-2e08da127450/directions_hero/1781505402498-qnduoc46zz.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "6f202681-40b5-4528-8102-2be3fababa52",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/40d6e868-4079-4be7-944e-2e08da127450/directions_hero/1781505402411-asvqdvzx1r.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ]
               },
               "notice": {
                 "title": "",
@@ -308,11 +398,69 @@
             {
               "hero": {
                 "title": "",
-                "images": [ ]
+                "images": [
+                  {
+                    "id": "595cf136-785f-4b80-be5b-59b3e025985e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/40d6e868-4079-4be7-944e-2e08da127450/reservation_hero/1781505402707-3sah4z05x2.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "5d14585f-c233-46b8-bba7-e280fee43bc3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/40d6e868-4079-4be7-944e-2e08da127450/reservation_hero/1781505402606-1hecx2p9p1.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "1ac77d2a-3e89-4a37-b3f1-38392fa7ae9a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/40d6e868-4079-4be7-944e-2e08da127450/reservation_hero/1781505402505-nqbrnjymn8.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ]
               },
               "about": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "069a66c1-88f0-43d2-99bd-ebdfb2de6bc7",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/40d6e868-4079-4be7-944e-2e08da127450/reservation_about/1781505402510-bmvk7rsebn.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "9965474c-d03a-4a2d-a8f2-0562be4123c7",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/40d6e868-4079-4be7-944e-2e08da127450/reservation_about/1781505402704-3e4pcfihdu.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "63ee4db9-d24d-4ac0-b5d6-ffcc49f3d2d4",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/40d6e868-4079-4be7-944e-2e08da127450/reservation_about/1781505402695-o3fasvdufc.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "34661ef3-e93b-44cc-822f-76d1316477c8",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/40d6e868-4079-4be7-944e-2e08da127450/reservation_about/1781505402791-rud5fw4ypz.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "description": ""
               }
             }
@@ -1710,9 +1858,9 @@
     }
   ],
   "metadata": {
-    "generatedAt": "2026-06-15T06:13:16.237811371Z",
+    "generatedAt": "2026-06-15T06:36:48.108676544Z",
     "propertyId": "cca4d132-0c77-40e7-8167-f719d70e0b0f",
     "homepageId": "40d6e868-4079-4be7-944e-2e08da127450",
-    "version": "1.8.0"
+    "version": "1.9.0"
   }
 }
