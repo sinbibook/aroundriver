@@ -125,7 +125,7 @@
                 "description": ""
               },
               "essence": {
-                "title": "",
+                "title": "홍천강이 한눈에 내려다보이는 풍경 속에서 여유로운 힐링을 즐겨보세요. 시원한 수영장과 개별 바베큐 공간에서 편안한 휴식의 시간을 보낼 수 있습니다. 은은한 향이 가득한 히노끼탕과 다양한 부대시설로 더욱 특별한 쉼을 선물합니다. 🌿✨",
                 "images": [
                   {
                     "id": "03e23615-d7ab-49d6-8edb-31e911c99788",
@@ -154,7 +154,7 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": "A Peaceful Stay By The River ✨"
               },
               "gallery": {
                 "title": "",
@@ -1077,9 +1077,9 @@
     }
   ],
   "metadata": {
-    "generatedAt": "2026-06-15T03:52:45.424348588Z",
+    "generatedAt": "2026-06-15T03:59:00.892332450Z",
     "propertyId": "cca4d132-0c77-40e7-8167-f719d70e0b0f",
     "homepageId": "40d6e868-4079-4be7-944e-2e08da127450",
-    "version": "1.1.0"
+    "version": "1.2.0"
   }
 }
