@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.14.0",
-    "generatedAt": "2026-06-22T07:22:59.569440052Z",
+    "version": "1.15.0",
+    "generatedAt": "2026-06-23T01:36:06.503236059Z",
     "templateType": "fullpage_mood",
     "propertyId": "cca4d132-0c77-40e7-8167-f719d70e0b0f",
     "homepageId": "40d6e868-4079-4be7-944e-2e08da127450"
@@ -26,7 +26,7 @@
     "city": "시/군/구",
     "domain": "aroundriver.kr",
     "realtimeBookingId": "https://map.naver.com/p/entry/place/1215242244",
-    "ybsId": "",
+    "ybsId": "79513",
     "amenities": [
       "주차장",
       "흡연구역(지정장소)"
